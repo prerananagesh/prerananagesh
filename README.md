@@ -74,11 +74,6 @@ Python | C/C++ | MATLAB | Java | SQL | VHDL | Verilog
 - Improved pathfinding efficiency by **35%** using computer vision
 - Integrated ultrasonic sensors with intelligent algorithms
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ## 🏆 Achievements & Certifications
 
@@ -90,7 +85,6 @@ Python | C/C++ | MATLAB | Java | SQL | VHDL | Verilog
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/prerana-nagesh/)
 - 📧 Email: prerananagesh2002@gmail.com
-- 📱 Phone: +91 8310671388
 - 📍 Location: Bengaluru, Karnataka, India
 
 ## 🌟 What I'm Looking For
